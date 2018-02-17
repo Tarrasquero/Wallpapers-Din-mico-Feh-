@@ -1,2 +1,4 @@
-# Wallpapers-Din-mico-Feh-
+## Wallpapers-Din-mico-Feh-
 Script Bash para crear fondo de pantalla dinámico.
+
+# Dependecia: `Feh`

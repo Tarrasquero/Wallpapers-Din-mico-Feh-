@@ -1,6 +1,6 @@
 #!/bin/bash
 
-Dir="/home/jorge/.config/awesome/wallpaper/"
+Dir="/home/$USER/.config/awesome/wallpaper/"
 
 if [ ! -d "$Dir" ]; then 
     echo "Not Exist $Dir"
